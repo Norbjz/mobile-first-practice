@@ -436,6 +436,7 @@ main {
 
 .plans-container--slider .left-arrow {
     position: absolute;
+    z-index: 1;
     left: 40px;
     top: 62%;
     width: 24px;
@@ -446,6 +447,7 @@ main {
 
 .plans-container--slider .right-arrow {
     position: absolute;
+    z-index: 1;
     right: 30px;
     top: 62%;
     width: 24px;
